@@ -1,5 +1,5 @@
 import React from 'react';
-import './AboutUs.css'; // Make sure to import your CSS file in your JSX file
+import './Aboutus.css'; // Make sure to import your CSS file in your JSX file
 import { Link } from 'react-router-dom';
 import { Context } from '../main';
 import { useContext } from 'react';
