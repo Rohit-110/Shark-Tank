@@ -28,7 +28,7 @@ const AboutUs = () => {
   }
 };
 
-if(!isAuthenticated)return <Navigate to="/"/>
+if(!isAuthenticated)return <Navigate to="/register"/>
 
 
   return (
