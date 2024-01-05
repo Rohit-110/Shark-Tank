@@ -1,0 +1,62 @@
+.formh1 {
+    color: #333;
+    margin: 2rem;
+}
+
+.formForm {
+    width:60%;
+    margin: auto;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+.layout{
+    color: white; 
+    display: block;
+    justify-content: space-evenly;
+}
+.formButton{
+    background-color:rgba(15, 42, 161, 0.5);/* linear-gradient(rgb(51, 138, 51) rgb(15, 250, 15)rgb(51, 138, 51) );*/
+    height: 3rem;
+    width: 8rem;
+    border-radius: .5rem;
+    margin-left: 45%;
+}
+.formButton:hover{
+    background-color: rgb(116, 122, 191);
+}
+.formcol-1{
+    display: flex;
+    flex-direction: column;
+}
+.formcol-2{
+    display: flex;
+    flex-direction: column;
+
+}
+.formstart{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.formper{
+    margin-top: 0.1rem;
+    margin-bottom: 2rem;
+}
+.forminp{
+    height: 2rem;
+    width: 15rem;
+}
+.formtext{
+    margin-bottom: .5rem;
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+}

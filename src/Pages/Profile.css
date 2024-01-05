@@ -1,0 +1,38 @@
+.profileTopContent{
+    font-size: 5rem;
+    margin-top: 5rem;
+    color: aliceblue;
+    font-weight: 800;
+}
+.profileMiddleContent{
+    margin-top: 2rem;
+    background-color: rgb(220, 169, 27);
+    border:2px black solid ;
+    border-radius: 5px;
+    margin-left: 22.5rem;
+    height: 20rem;
+    width: 50rem;
+}
+.profileinformation{
+    font-size: 3rem;
+    color: black;
+    font-weight: 700;
+}
+.profileId{
+    font-size: 2rem;
+    font-weight: 500;
+    color:black;
+    margin-left: 2rem;
+}
+.profileName{
+    font-size: 2rem;
+    font-weight: 500;
+    color:black;
+    margin-left: 2rem;
+}
+.profileMobileNumber{
+    font-size: 2rem;
+    font-weight: 500;
+    color:black;
+    margin-left: 2rem;
+}

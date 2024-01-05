@@ -1,0 +1,64 @@
+*.contactshead{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgba(0, 0, 255, 0.5);
+    height: 4rem;
+    border-radius: 5px;
+}
+.contactsmiddleContentTotal{
+    color: white;
+}
+.contactsstopcontent{
+    font-size: 5rem;
+}
+.contactsheadingLogo{
+    overflow: hidden;
+    float: left;
+    margin-left:2rem;
+    font-size: 3rem;
+    margin-top: 0.3rem;
+}
+#contactshomeText{
+    position: relative;
+    right: 2.2rem;
+    top: 0.5rem;
+}
+#contactsaboutUsText{
+    position: relative;
+    right: 2.2rem;
+    top: 0.5rem;
+}
+
+#contactsmySubmissionsText{
+    display: inline;
+    position: relative;
+    right: 2rem;
+    top: 0.5rem;
+}
+#contactscontactsText{
+    position: relative;
+    right: 2.2rem;
+    top: 0.5rem;
+}
+#contactsemailText{
+    letter-spacing: 2px;
+    font-size: 1.5rem;
+    position: relative;
+    left: 1rem;
+    bottom: 1rem;
+}
+#contactstopContent{
+    font-size: 2rem;
+    font-family: 800;
+}
+.contactsmiddleContentTotal{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 2rem;
+}
+.contactsmiddleImage{
+    height: 30rem;
+    width: 30rem;
+}

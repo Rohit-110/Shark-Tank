@@ -1,0 +1,23 @@
+.submissioncontainer{
+    height: 15rem;
+    width: 85%;
+    background-color: azure;
+    margin-left: 10%;
+    margin-top: 5rem;
+    border-radius: 15px;
+    padding-top: 4rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+}
+.submissionheading{
+    color: white;
+    font-size: 4rem;
+    margin-top: 2rem;
+}
+.submissioncontent1{
+    margin-left: 2rem;
+    margin-right: 2rem;
+    font-size: 1rem;
+}

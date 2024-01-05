@@ -1,0 +1,133 @@
+.navbarhead{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgba(146, 146, 246, 0.5);
+    color: white;
+    height: 4rem;
+    border-radius: 5px;
+}
+.navbarLogo{
+    overflow: hidden;
+    float: left;
+    margin-left:2rem;
+    font-size: 3rem;
+    margin-top: 0.3rem;
+}
+.navbarnavBar{
+    overflow: hidden;
+    float: right;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 0.5% 0% 0% 5%;
+    letter-spacing: 1px;
+}
+
+.navbara{
+    color: rgb(255, 255, 255);
+    float: right;
+    margin-left: 5rem;
+    text-decoration: none;
+}
+.navbarhome{
+    background-color: rgb(66, 61, 61);
+    /* padding: 2px 2px 2px 2px; */
+    height: 2rem;
+    margin-top: 0.5rem;
+    margin-left: 1rem;
+    border: 2px black solid;
+    border-radius: 5px;
+}
+.navbarhome:hover{
+    background-color: black;
+}
+.navbaraboutUs{
+    background-color: rgb(66, 61, 61);
+    height: 2rem;
+    margin-top: 0.5rem;
+    margin-left: 1rem;
+    border: 2px black solid;
+    border-radius: 5px;
+}
+.navbaraboutUs:hover{
+    background-color: black;
+}
+.navbarmySubmissions{
+    background-color: rgb(66, 61, 61);
+    height: 2rem;
+    margin-top: 0.5rem;
+    margin-left: 1rem;
+    border: 2px black solid;
+    border-radius: 5px;
+}
+.navbarmySubmissions:hover{
+    background-color: black;
+}
+.navbarcontacts{
+    background-color: rgb(66, 61, 61);
+    height: 2rem;
+    margin-top: 0.5rem;
+    margin-left: 1rem;
+    border: 2px black solid;
+    border-radius: 5px;
+}
+.navbarcontacts:hover{
+    background-color: rgb(0, 0, 0);
+}
+.navbarprofileLogo{
+    height: 3rem;
+    width: 3rem;
+    border: 5px solid rgb(66, 61, 61);
+    margin-bottom: 1rem;
+    border-radius: 50%;
+    margin-left: 3rem;
+    position: relative;
+    bottom: 0.2rem;
+    margin-right: 7rem;
+}
+#navbarhomeText{
+    position: relative;
+    right: 2.2rem;
+    top: 0.5rem;
+}
+#navbaraboutUsText{
+    position: relative;
+    right: 2.2rem;
+    top: 0.5rem;
+}
+
+#navbarmySubmissionsText{
+    position: relative;
+    right: 2.2rem;
+    top: 0.5rem;
+}
+#navbarcontactsText{
+    position: relative;
+    right: 2.2rem;
+    top: 0.5rem;
+}
+.navbarprofileLogo:hover{
+    height: 3rem;
+    width: 3rem;
+    border: 5px solid black;
+    border-radius: 50%;
+    margin-left: 3rem;
+}
+
+.navbaralogout{
+    background-color: rgb(66, 61, 61);
+    height: 2rem;
+    margin-top: 0.5rem;
+    margin-left: 1rem;
+    border: 2px black solid;
+    border-radius: 5px;
+    width: 4rem;
+    padding-bottom: 2rem;
+    padding-left: 2.5rem;
+    color: white;
+
+}
+.navbaralogout:hover{
+    background-color: rgb(0, 0, 0);
+}

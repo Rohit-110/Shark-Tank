@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Rubik+Glitch&display=swap');
+.aboutusbody{
+    background-color: white;
+}
+.aboutushead{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgba(0, 0, 255, 0.5);
+    height: 4rem;
+    border-radius: 5px;
+}
+.aboutusheadingLogo{
+    color: white;
+    overflow: hidden;
+    float: left;
+    margin-left:2rem;
+    font-size: 3rem;
+    margin-top: 0.3rem;
+}
+.aboutusintroduction{
+    color: #ffffff;
+    margin-top: 6rem;
+    font-size: 2rem;
+    margin-left: 8rem;
+    text-shadow: #ff0000;
+    justify-content: center;
+    
+}
+.aboutusmiddleContent{
+    color: rgb(255, 255, 255);
+    font-size: 1.5rem;
+    letter-spacing: 0.5px;
+    word-spacing: 2px;
+    justify-content: center;
+    margin-left:4rem;
+    margin-right: 4rem;
+    padding-right: 4rem;
+    padding-left: 4rem;
+}
+#aboutusfirstLetter{
+    font-size: 5rem;
+}
+#aboutusourMission{
+    color: rgb(255, 255, 255);
+    font-weight:800;
+    text-decoration: underline;
+}
+#aboutuscontents1{
+    color: rgb(255, 255, 255);
+    font-weight:800;
+}
