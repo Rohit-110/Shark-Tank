@@ -5,8 +5,8 @@ import Contacts from "./Pages/Contacts.jsx";
 import Login from "./Pages/Login.jsx";
 import Profile from "./Pages/Profile.jsx";
 import Register from "./Pages/Register.jsx";
-import Home from './pages/Home.jsx'
-import Form from './pages/Form.jsx'
+import Home from './Pages/Home.jsx'
+import Form from './Pages/Form.jsx'
 import Submissions from "./Pages/Submissions.jsx";
 function App() {
 
