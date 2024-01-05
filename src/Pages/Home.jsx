@@ -27,7 +27,7 @@ import toast from 'react-hot-toast';
   }
 };
 
-if(!isAuthenticated)return <Navigate to="/register"/>
+if(!isAuthenticated)return <Navigate to="/"/>
 
   return (
     <>
