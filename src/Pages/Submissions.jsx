@@ -25,7 +25,7 @@ const Submissions = ()=>{
     }
   };
   
-  if(!isAuthenticated)return <Navigate to="/register"/>
+  if(!isAuthenticated)return <Navigate to="/"/>
 
     
     const [tasks,setTasks]=useState([]);
