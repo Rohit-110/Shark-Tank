@@ -28,7 +28,7 @@ const Profile = () => {
   }
 };
 
-if(!isAuthenticated)return <Navigate to="/register"/>
+if(!isAuthenticated)return <Navigate to="/"/>
 
 
 const [appliers,setAppliers]=useState([]);
