@@ -1,6 +1,6 @@
 import { Toaster } from "react-hot-toast";
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
-import AboutUs from "./Pages/AboutUs.jsx";
+import AboutUs from "./Pages/Aboutus.jsx";
 import Contacts from "./Pages/Contacts.jsx";
 import Login from "./Pages/Login.jsx";
 import Profile from "./Pages/Profile.jsx";
